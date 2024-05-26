@@ -1,6 +1,8 @@
 # nmrAna
  is a Matlab-based tool for analysis of nuclear magnetic resonance (NMR) measurements. The program allows to analyse the enitre series of measured spectra as a function of temperature and other parameters like Tau in case of spin-lattice time (T1) measurements.
 
+> The code has not been updated since 2014. There might be compatibility issues with the latest version of Matlab!
+
 ## Authors
 - Anton Potočnik (IJS, F5)
 - Andraž Krajnc (KI)
